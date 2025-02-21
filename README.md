@@ -1,5 +1,8 @@
-# SisOp-2025
-LATIHAN
+# Tugas Sistem Operasi - 1
+
+Nama  : Ibnu Habib Ridwansyah
+Kelas : D3 IT B
+NRP   : 3124500041
 
 1.  a\. **Bilangan biner** adalah bilangan yang berbasis 2 (dua), yang
     hanya menggunakan dua digit, yaitu 0 dan 1.
