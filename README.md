@@ -7,4 +7,4 @@ Class: 1 D3 IT B <br>
 ### Week 1
 - [Pengenalan Sistem Bilangan](https://github.com/ibnuhabibr/SisOp-2025/blob/main/3124500041_Ibnu%20Habib%20Ridwansyah_SisOp-2025.md)
 ### Week 2
-- [Chapter 1 Practice Exercise]()
+- [Chapter 1 Practice Exercise](https://github.com/ibnuhabibr/SisOp-2025/blob/main/3124500041_Ibnu%20Habib%20Ridwansyah_SisOp-2025_Week%202.md)
