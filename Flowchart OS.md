@@ -1,4 +1,4 @@
-<img src="./Flowchart OS.png"></img>
+<img src="./img/Flowchart OS.png"></img>
 
 Flowchart ini menggambarkan langkah-langkah untuk menghidupkan sistem operasi pada komputer, mulai dari keadaan mati hingga OS berhasil menyala. Berikut penjelasan langkah-langkah di dalam flowchart tersebut:
 
