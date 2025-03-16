@@ -29,4 +29,3 @@ Flowchart ini menggambarkan langkah-langkah untuk menghidupkan sistem operasi pa
 9.  **Selesai**: Jika semua langkah sebelumnya berhasil, sistem operasi akan berhasil dimuat dan komputer siap digunakan.
     
 
-Flowchart ini menjelaskan secara rinci alur dari hidupnya komputer hingga berhasil menjalankan sistem operasi dengan benar.
