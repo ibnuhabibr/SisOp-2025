@@ -1,7 +1,7 @@
-<code>Nama : Ibnu Habib Ridwansyah</code></br>
-<code>Kelas : D3 Teknik Informatika B</code></br>
-<code>NRP : 3124500041</code></br>
-<code>Dosen Pengajar: Dr.Ferry Astika Saputra S.T., M.Sc</code></br>  
+<code>Nama            : Ibnu Habib Ridwansyah</code></br>
+<code>Kelas           : D3 Teknik Informatika B</code></br>
+<code>NRP             : 3124500041</code></br>
+<code>Dosen Pengajar  : Dr.Ferry Astika Saputra S.T., M.Sc</code></br>  
 
 ---
 
