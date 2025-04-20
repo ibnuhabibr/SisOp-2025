@@ -26,3 +26,4 @@ NRP  : 3124500041 <br>
 - [Thread & Fork](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%206/Thread%20%26%20Fork.md).
   
 ### Week 8
+- [Ethol Task Exercise (PPT, etc.)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%208/Ethol%20Task%20Exercise%20(PPT%2C%20etc.).md).
