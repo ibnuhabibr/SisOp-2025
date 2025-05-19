@@ -1,3 +1,9 @@
+<code>Sulistyo Fajar Pratama 3124500037</code></br>
+
+<code>Ibnu Habib Ridwansyah 3124500041</code></br>
+
+<code>Hafizh Hammas Muntazar 3124500060</code></br>
+
 # Analisis dan Pembahasan Algoritma SJF Non-Preemptive Dengan Arrival Time
 
 
