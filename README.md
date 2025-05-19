@@ -33,4 +33,4 @@ NRP  : 3124500041 <br>
 
 ### Week 13
 - [Analisis Non-Preemptive SJF Without Arrival Time](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF%20Without%20Arrival%20Time.md).
-- [Analisis Non-Preemptive SJF Without Arrival Time](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF%20With%20Arrival%20Time.md).
+- [Analisis Non-Preemptive SJF With Arrival Time](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF%20With%20Arrival%20Time.md).
