@@ -102,7 +102,7 @@ int main() {
 * **Response Time (RT):** Pada non-preemptive dengan arrival sama, `rt = wt`.
 
 ## 2. Output Program
-![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Non-Preemptive%20SJF.png)
+![Output Program](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Non-Preemptive%20SJF.png)
 
 ## 3. Analisis Hasil
 
