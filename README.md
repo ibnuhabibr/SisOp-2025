@@ -29,7 +29,7 @@ NRP  : 3124500041 <br>
 - [Ethol Task Exercise (PPT, etc.)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%208/Ethol%20Task%20Exercise%20(PPT%2C%20etc.).md).
 
 ### Week 10
-- [Analisis Algoritma FCFS)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2010/Analisis%20Algoritma%20FCFS.md).
+- [Analisis Algoritma FCFS](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2010/Analisis%20Algoritma%20FCFS.md).
 
 ### Week 13
-- [Analisis Non-Preemptive SJF)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF.md).
+- [Analisis Non-Preemptive SJF](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF.md).
