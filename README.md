@@ -31,5 +31,5 @@ NRP  : 3124500041 <br>
 ### Week 10
 - [Analisis Algoritma FCFS)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2010/Analisis%20Algoritma%20FCFS.md).
 
-### Week 10
+### Week 13
 - [Analisis Non-Preemptive SJF)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF.md).
