@@ -102,7 +102,7 @@ int main() {
 
 ## 2. Contoh Output Program
 
-![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Non-Preemptive%20SJF.png)
+![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Output%20Non-Preemptive%20SJF.png)
 
 ## 3. Analisis Hasil
 
