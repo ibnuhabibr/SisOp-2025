@@ -96,7 +96,7 @@ int main() {
 
 ## 2. Output Program
 
-![Hasil Output Program](/mnt/data/2f9e9d0c-0d44-4fc1-935c-8194e3f876cb.png)
+![Output Program](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Output%20Non-Preemtive%20SJF%20With%20Arrival%20Time.png)
 
 ## 3. Analisis Hasil
 
