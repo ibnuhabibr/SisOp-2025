@@ -6,6 +6,7 @@
 
 # Analisis dan Pembahasan Algoritma SJF Non-Preemptive Tanpa Arrival Time
 
+![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Output%20Non-Preemptive%20SJF.png)
 
 Kami melakukan analisis terhadap implementasi algoritma Shortest Job First (SJF) non-preemptive tanpa mempertimbangkan waktu kedatangan (arrival time). SJF memilih proses dengan waktu eksekusi (burst time) paling kecil berikutnya. Karena tidak ada arrival time, semua proses dianggap tiba bersamaan pada waktu 0.
 
@@ -100,9 +101,8 @@ int main() {
 * **Waiting Time (WT):** `wt = tat - bt`.
 * **Response Time (RT):** Pada non-preemptive dengan arrival sama, `rt = wt`.
 
-## 2. Contoh Output Program
+## 2. Output Program
 ![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Non-Preemptive%20SJF.png)
-![image](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Output%20Non-Preemptive%20SJF.png)
 
 ## 3. Analisis Hasil
 
