@@ -1,3 +1,9 @@
+<code>Sulistyo Fajar Pratama 3124500037</code></br>
+
+<code>Ibnu Habib Ridwansyah 3124500041</code></br>
+
+<code>Hafizh Hammas Muntazar 3124500060</code></br>
+
 # **Penjelasan dan Pembahasan Output Algoritma Shortest Remaining Time First (SRTF)**
 
 ### **1. Pengenalan SRTF (Shortest Remaining Time First)**
@@ -99,6 +105,7 @@ int main() {
 
 ### **4. Output**
 
+![Output Program](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Output.png)
 
 #### **Penjelasan Tabel Output:**
 
@@ -141,7 +148,7 @@ int main() {
 
 #### **Rata-rata TAT dan WT**
 
-
+![Average](https://github.com/ibnuhabibr/SisOp-2025/blob/main/img/Average.png)
 
 ### **5. Kelebihan dan Kekurangan Algoritma SRTF**
 
