@@ -36,5 +36,5 @@ NRP  : 3124500041 <br>
 - [Analisis Non-Preemptive SJF With Arrival Time](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Non-Preemptive%20SJF%20With%20Arrival%20Time.md).
 - [Analisis Shortest Remaining Time First (SRTF)](https://github.com/ibnuhabibr/SisOp-2025/blob/main/Week%2013/Analisis%20Shortest%20Remaining%20Time%20First%20(SRTF).md).
 
-### Week 13
+### Week 14
 - [ANALISIS DAN PERBANDINGAN SCHEDULING SJF & SRTF](https://www.youtube.com/watch?v=79zzU0oIxtE).
